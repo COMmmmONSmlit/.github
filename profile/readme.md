@@ -1,22 +1,12 @@
-<img src="/image/toptop.png" width="100%">
+<img width="899" height="164" alt="logo_yoko" src="https://github.com/user-attachments/assets/bdb18a5f-c55d-4d64-9542-054c61c7f646" />
 
-## Project PLATEAU（プラトー） リポジトリ
+## 地域交通DX推進プロジェクト「COMmmmONS（コモンズ）」リポジトリ
 
-[PLATEAU](https://www.mlit.go.jp/plateau/)は、国土交通省が様々なプレイヤーと連携して推進する、日本全国の都市デジタルツイン実現プロジェクトです。
-都市活動のプラットフォームデータとして3D都市モデルを整備し、様々な領域でユースケースを開発しています。
-さらに、誰もが自由に都市のデータを引き出せるよう、3D都市モデルをオープンデータとして提供しています。
-PLATEAUは、3D都市モデルの整備・活用・オープンデータ化を進めることで、まちづくりのDXを実現し、
-オープン・イノベーションを創出していきます。
+[COMmmmONS（コモンズ）](https://www.mlit.go.jp/commmmons/)は、国土交通省が推進する地域交通DX推進プロジェクトです。  
+地域交通の「サイロ化」の課題をデジタル技術の力で解決するため、サービス・データ・マネジメント・ビジネスプロセスの4本の柱で連携・協働を軸としたベストプラクティス創出と標準化を推進します。  
+コモンズGitHubでは、プロジェクト成果であるOSSやAPI仕様書等を公開しています。
 
-Project PLATEAU リポジトリでは、プロジェクトの一環として開発した3D都市モデルに関する様々なツールやライブラリをOSSとして提供しています。
-リポジトリの一覧は[こちら](https://github.com/Team-Project-PLATEAU/.github/wiki/PLATEAU-repositories)をご参照ください。
-
-- [PLATEAUウェブサイト](https://www.mlit.go.jp/plateau/)
-- [PLATEAU公式X（旧Twitter）](https://twitter.com/ProjectPlateau)
-- [PLATEAU公式Youtube](https://www.youtube.com/@projectplateau6822)
-
-
-<img src="/image/logo_004.png" width="45%">
-
+- [COMmmmONSウェブサイト](https://www.mlit.go.jp/commmmons/)
+- [COMmmmONS公式X（旧Twitter）](https://x.com/COMmmmONS_MLIT)
 
 Powered by MLIT (Ministry of Land, Infrastructure, Transport and Tourism)
